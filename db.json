@@ -1,0 +1,21 @@
+{
+    "pelabuhanTujuan": {
+        "responseCode": "RSx700002",
+        "responseMessage": "Ferizy Service - RsRsDestinationRf Sukses",
+        "responseReferenceNo": "72e6dd26dab943e2a00605a8dba0fbd7",
+        "pelabuhanTujuan": {
+            "id": "pelabuhan-tujuan",
+            "name": "Pelabuhan Tujuan",
+            "data": [
+                {
+                    "harbor": "Ajibata",
+                    "city": "Sibolga"
+                },
+                {
+                    "harbor": "Ambarita",
+                    "city": "Sibolga"
+                }
+            ]
+        }
+    }
+}
